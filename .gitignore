@@ -1,0 +1,27 @@
+# Compiled Arduino files
+*.hex
+*.bin
+*.elf
+*.eep
+
+# Precompiled / temporary build files
+*.o
+*.a
+*.d
+
+# Arduino build folders (sometimes created manually)
+build/
+
+# Arduino IDE temporary files
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code settings (optional)
+.vscode/
+
+# JetBrains / CLion etc.
+.idea/
